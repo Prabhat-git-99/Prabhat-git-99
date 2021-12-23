@@ -14,7 +14,7 @@
 </div>
 <div>
     <h4>What is the meaning of Prabhat?</h4>
-    <h4>Google Says:</h4>The different meanings of the name Prabhat are: Sanskrit meaning: Dawn; morning light. Indian meaning: Dawn; morning light.
+    <h4>Google Says: The different meanings of the name Prabhat are: Sanskrit meaning: Dawn; morning light. Indian meaning: Dawn; morning light.</h4>
     <h2>Am:</h2><img src = 'https://media2.giphy.com/media/d55cRvOLxbv4jpAC1Z/giphy.gif?cid=ecf05e4788bsrg0d7pm7mh6u7k6bce4on62x1a4mpwsjtusf&rid=giphy.gif&ct=g' width = 200px/>
     <h2><i><b>I follow my Guru: Google Baba 😉</b></i></h2>
 </div>

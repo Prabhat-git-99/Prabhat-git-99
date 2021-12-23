@@ -108,9 +108,9 @@
 
 [![Prabhat's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prabhat-git-99&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Prabhat's github stats](https://github-readme-stats.vercel.app/api?username=Prabhat-git-99&show_icons=true&theme=tokyonight) | ![Prabhat GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-git-99&theme=tokyonight) |
+| ![Prabhat's github stats](https://github-readme-stats.vercel.app/api?username=Prabhat-git-99&count_private=true&show_icons=true&theme=tokyonight) | ![Prabhat GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-git-99&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-git-99&layout=compact&langs_count=10heme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Prabhat-git-99&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-git-99&layout=compact&langs_count=10heme=algolia)
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>

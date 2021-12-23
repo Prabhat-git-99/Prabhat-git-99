@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://rukminim1.flixcart.com/image/416/416/poster/m/q/h/sunrise-wallpaper-rwpstr2025-medium-original-imaehmk4nwgthrha.jpeg?q=70">
+    <img width="300" src="https://rukminim1.flixcart.com/image/416/416/poster/m/q/h/sunrise-wallpaper-rwpstr2025-medium-original-imaehmk4nwgthrha.jpeg?q=70">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>

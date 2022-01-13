@@ -52,7 +52,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
-    <img width="30px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/fastify.svg" style="background:'white';" />
+    <img width="30px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/fastify.svg" style="background-color:white;" />
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
   </kbd>
   <kbd>

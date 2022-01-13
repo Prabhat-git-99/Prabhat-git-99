@@ -50,6 +50,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
   </kbd>
